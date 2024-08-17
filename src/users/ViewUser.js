@@ -38,7 +38,7 @@ loadUser();
                     Details of user id :{user.id}
                     <ul className='list-group list-group-flush'>
                         <li className='list-group-item text-start '>
-                            <b>Name  <b>  </b>   : </b>
+                            <b>Name   : </b>
                             {user.name}
                         </li>
                         <li className='list-group-item text-start '>
